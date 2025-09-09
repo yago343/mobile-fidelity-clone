@@ -196,7 +196,7 @@ const Index = () => {
             investimento que você fará neste pacote, que oferece mais de 3.500 livros e audiolivros em promoção.
           </p>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 gap-6 max-w-sm mx-auto">
             <div className="text-center">
               <img src={bookSegredos} alt="Os Segredos da Mente Milionária" className="w-full h-48 object-cover rounded mb-4 shadow-lg" />
               <p className="text-xs font-bold text-yellow-text">
